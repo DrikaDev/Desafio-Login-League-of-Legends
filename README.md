@@ -1,13 +1,11 @@
-# Desafio-Login-League-of-Legends
+# Desafio-Login-League-of-Legends <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="95" align="right">
 
 Layout baseado no Figma utilizando os conhecimento com HTML5 e CSS3 adquiridos durante as aulas no Vai Na Web.<br>
 Como no layout, o botão deve começar desabilitado.<br>
 E com JavaScript, criado uma interação do botão com os inputs onde o botão será habilitado quando o 1º input tiver um valor E quando o 2º input tiver uma senha maior ou igual a 8 caracteres.<br>
 E de bônus, a criação do layout responsivo para mobile (celular).
 #
-
 <h2> Linguagens utilizadas: </h2>
-
 <table>
 <tr>
   <th> HTML </th>
