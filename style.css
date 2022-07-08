@@ -150,16 +150,19 @@ h1{
     justify-content: center; 
 }
 
-.arrow-button img{
-    width: 30px;
+.arrow-button{
+    opacity: 0.1;
     border-radius: 5px;
     cursor: pointer;
     background-color: var(--cor-seta);
     transition: 1s all;
-    opacity: 0.1;
 }
 
-.arrow-button img:hover{
+.arrow-button img{
+    width: 30px;
+}
+
+.arrow-button:hover{
     transform: scale(1.2);
 }
 
